@@ -1,7 +1,6 @@
 Python-Working-Exercise
 =======================
 <ul>
-<li>This contains basic python programs and working files</li>
 <li> Writing Your First Program - Hello, World!</li>
 <li>Python Basic Data Types And Variables</li>
 <li>Python InputOutput</li>
