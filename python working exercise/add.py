@@ -1,0 +1,5 @@
+print("enter the number")
+num1=int(raw_input())
+print("enter another  number")
+num2=int(raw_input())
+print("The sum is:" +str(num1+num2))
